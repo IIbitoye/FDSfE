@@ -1,2 +1,2 @@
 # FDSfE_IIbitoye
-LAKJIJDIO
+This is my first repository, created mainly for my Data Science course submissions.
